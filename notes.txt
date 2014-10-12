@@ -1,0 +1,7 @@
+
+
+Sn+1 = Sn+(µ*Sn*Dt)+(sigma(Sn)*Sn*alea*sqrt(Dt))
+
+
+Gr = ((present/past)^1/n)-1
+n = nb of time periods

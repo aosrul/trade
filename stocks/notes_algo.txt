@@ -1,0 +1,6 @@
+moyenne mobile 100 jours => long terme
+a mettre en relation avec une moyenne ponderee (exponentielle) court terme
+MACD : moyenne exponentielle 12 jours - moyenne exponentielle 26 jours => plutot court terme
+variance = pow(ecart_type, 2) => permet de prevoir la pente de la courbe
+bandes de bollinger : moyenne mobile avec ecarts types
+see trade.pdf
